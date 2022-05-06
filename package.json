@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-pptx",
+  "name": "@mozartspa/nodejs-pptx",
   "version": "1.2.2",
   "description": "Generate PPTX files on the server-side with JavaScript.",
   "license": "MIT",
